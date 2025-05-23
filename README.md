@@ -13,6 +13,9 @@ This project is my implementation of the Intercom AI-enhanced admin panel UI, cl
 ---
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/da403340-8baa-4918-8cab-54770be70c7d)
+![image](https://github.com/user-attachments/assets/4debc9da-bff8-4e1f-8065-3626976222d0)
+![image](https://github.com/user-attachments/assets/9f169e12-cdcf-46f6-a0e4-164eddc51ec1)
 
 
 ---
